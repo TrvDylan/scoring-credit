@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 scikit-learn
 numpy
 joblib
+=======
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+joblib
+>>>>>>> c2ece0c (Push git ignore)
